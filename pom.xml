@@ -8,7 +8,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>ibm-queue-suscriber</name>
+    <name>spring-boot-template</name>
     <url>http://maven.apache.org</url>
 
     <properties>
